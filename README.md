@@ -6,4 +6,6 @@ Solution ---> https://www.kaggle.com/code/barirahzainal/home-depot-product-searc
 
 # Metric RMSE - 0.522
 
+# Recommendation & Calculate Click Through Rate
 
+Solution ---> https://www.kaggle.com/code/barirahzainal/home-depot-product-search-recommendation
